@@ -4,7 +4,7 @@ Cette extension Chrome te permet de vérifier si tu as accès à l'Exclusivité 
 
 ## Installation
 
-1. Télécharge le fichier `.zip` de l'extension.
+1. [Télécharge le fichier](https://github.com/paris-st-germain/ticketplace/archive/refs/heads/main.zip) `.zip` de l'extension.
    ![Alt text](tutoriel/step-0.png?raw=true "Title")
 
 2. Décompression:
